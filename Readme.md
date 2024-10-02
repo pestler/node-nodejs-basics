@@ -9,8 +9,8 @@
 5. Go to folder node-nodejs-basics
 6. To run special file use: npm run 
   - [x] npm run fs:create
-  - [] npm run fs:copy"
-  - [] npm run fs:rename
+  - [x] npm run fs:copy"
+  - [x] npm run fs:rename
   - [] npm run fs:delete
   - [] npm run fs:list
   - [] npm run fs:read
