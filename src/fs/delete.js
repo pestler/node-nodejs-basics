@@ -25,5 +25,3 @@ const remove = async () => {
 await remove();
 
 
-/* delete.js - реализовать функцию, которая удаляет файл fileToRemove.txt
-(если файла fileToRemove.txt нет, должна быть выдана ошибка с сообщением FS operation failed) */

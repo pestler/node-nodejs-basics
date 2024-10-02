@@ -1,6 +1,5 @@
 import path from 'path';
 import { existsSync } from 'fs';
-import { writeFile } from 'fs';
 import { getPathUrl } from '../util/get-url-path.js'
 import { PropertyRequiredError } from '../util/validation-error.js'
 import {createDirectory} from '../util/create-dir.js'
