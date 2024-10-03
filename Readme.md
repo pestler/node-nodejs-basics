@@ -11,10 +11,10 @@
   - [x] npm run fs:create
   - [x] npm run fs:copy"
   - [x] npm run fs:rename
-  - [] npm run fs:delete
-  - [] npm run fs:list
-  - [] npm run fs:read
-  - [] npm run cli:env
+  - [x] npm run fs:delete
+  - [x] npm run fs:list
+  - [x] npm run fs:read
+  - [x] npm run cli:env
   - [] npm run cli:args
   - [] npm run modules
   - [] npm run hash
