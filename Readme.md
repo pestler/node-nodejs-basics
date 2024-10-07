@@ -15,13 +15,13 @@
   - [x] npm run fs:list
   - [x] npm run fs:read
   - [x] npm run cli:env
-  - [] npm run cli:args
-  - [] npm run modules
-  - [] npm run hash
-  - [] npm run stream:read
-  - [] npm run stream:write
-  - [] npm run stream:transform
-  - [] npm run zip:compress
-  - [] npm run zip:decompress
-  - [] npm run wt:main
-  - [] npm run cp
+  - [x] npm run cli:args
+  - [x] npm run modules
+  - [x] npm run hash
+  - [x] npm run streams:read
+  - [x] npm run streams:write
+  - [x] npm run streams:transform
+  - [x] npm run zip:compress
+  - [x] npm run zip:decompress
+  - [x] npm run wt
+  - [x] npm run cp
